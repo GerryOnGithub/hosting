@@ -1,0 +1,14 @@
+-----BEGIN CERTIFICATE-----
+MIIF7jCCBNagAwIBAgIQDMx22cGjyZq1MPfwXO+23zANBgkqhkiG9w0BAQsFADBZ
+
+		.cer goes here
+
+mcY/JgRApVRyIaO+9LRt2Ttr+eL7VjPjOEfsBz0pIGN2jA==
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIFUTCCBDmgAwIBAgIQDAiWZTW5QqlzUmXk+XVAvDANBgkqhkiG9w0BAQsFADBh
+
+		intermediate .cer goes here
+
+qitWoQtN8vVPzUgRjoiuxXJXpT0S
+-----END CERTIFICATE-----
